@@ -2,6 +2,8 @@
 
 Original issue: https://github.com/RadeonOpenCompute/ROCm-CompilerSupport/issues/45
 
+The source files are copied from https://github.com/RadeonOpenCompute/ROCm-CompilerSupport/
+
 ## How to reproduce
 
 Simply install llvm/clang with `clang` and `llvm-link` in `${PATH}` and run `./run.sh`
